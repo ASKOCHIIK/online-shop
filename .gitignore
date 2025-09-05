@@ -1,8 +1,9 @@
-env
-.env
+
+
 db.sqlite3
 __pycache__
 .idea
 .venv
 .idea
+.DS_Store
 .DS_Store
